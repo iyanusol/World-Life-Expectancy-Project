@@ -7,7 +7,7 @@ It is based on **Project 1 – World Life Expectancy** from Alex The Analyst’s
 
 ---
 
-
+![Dashboard Page 1](https://github.com/iyanusol/World-Life-Expectancy-Project/blob/main/images/Dashboard%20Page%201.png)
 
 ## 📊 Project Overview
 
@@ -22,6 +22,7 @@ The dashboard answers key questions such as:
 The report is fully interactive with slicers for **Country** and **Year**.
 
 ---
+![Dashboard Page 2](https://github.com/iyanusol/World-Life-Expectancy-Project/blob/main/images/Dashboard%20Page%202.png)
 
 ## 🧮 Dataset
 
@@ -38,6 +39,7 @@ The report is fully interactive with slicers for **Country** and **Year**.
 > You can obtain the dataset directly from the course materials or from the recommended public source.
 
 ---
+![Dashboard Page 3](https://github.com/iyanusol/World-Life-Expectancy-Project/blob/main/images/Dashboard%20Page%203.png)
 
 ## 🛠 Tools & Skills Demonstrated
 
@@ -60,6 +62,7 @@ The report is fully interactive with slicers for **Country** and **Year**.
   - Narrative insight text to support non-technical stakeholders
 
 ---
+![SQL Cleaned data](https://github.com/iyanusol/World-Life-Expectancy-Project/blob/main/images/Cleaned%20Data.png)
 
 ## 📄 Dashboard Pages
 
@@ -102,6 +105,7 @@ Key elements:
   - Emphasises opportunities for vaccination, maternal health, and education improvements
 
 ---
+![Data Cleaning](https://github.com/iyanusol/World-Life-Expectancy-Project/blob/main/images/Project%201%20Data%20Cleaning-2.png)
 
 ### Page 3 – Education, Economy & Infant Mortality
 
@@ -132,7 +136,7 @@ Key elements:
 - **Infant deaths** generally decline over time, but some regions still lag behind, showing the need for sustained investment in health and education.
 
 ---
-
+![Custom Adobe Visuals](https://github.com/iyanusol/World-Life-Expectancy-Project/blob/main/images/Custom%20visuals%20with%20Adobe%20(1).png)
 
 ## 🚀 How to Use This Report
 
@@ -145,6 +149,7 @@ Key elements:
 5. Hover over visuals for tooltips and additional context.
 
 ---
+![Dashboard Page 1](https://github.com/iyanusol/World-Life-Expectancy-Project/blob/main/images/Dashboard%20Page%201.png)
 
 ## 📁 Repository Structure
 
